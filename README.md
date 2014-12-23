@@ -1,4 +1,4 @@
-oh-hai
+Oh, Hai there.
 ======
 
-Oh, Hai.
+You were probably looking for [jameswhite](https://github.com/fapestniegd).
